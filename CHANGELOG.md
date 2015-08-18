@@ -1,8 +1,8 @@
-ahnames/yii2-asset-advancedhosters changelog
---------------------------------------------
+advancedhosters/yii2-asset-advancedhosters changelog
+----------------------------------------------------
 
 ## Under development
 
 
-## Development started
+## Development started 2015-08-18
 
