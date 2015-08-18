@@ -1,0 +1,11 @@
+package:
+    name:           yii2-asset-advancedhosters
+    namespace:      advancedhosters\assets\advancedhosters
+    title:          Yii 2 asset with AdvancedHosters logos and so on
+    type:           yii2-extension
+    keywords:       advancedhosters, asset, extension, yii2
+    year:           2015
+
+require:
+    advancedhosters/hidev-config:   "*"
+    hiqdev/hidev-config-php:        "*"

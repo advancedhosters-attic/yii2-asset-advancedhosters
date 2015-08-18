@@ -1,0 +1,34 @@
+{
+    "name": "advancedhosters/yii2-asset-advancedhosters",
+    "type": "yii2-extension",
+    "description": "Yii 2 asset with AdvancedHosters logos and so on",
+    "keywords": [
+        "advancedhosters",
+        "asset",
+        "extension",
+        "yii2"
+    ],
+    "homepage": "https://github.com/advancedhosters/yii2-asset-advancedhosters",
+    "license": "No license",
+    "support": {
+        "email": "support@advancedhosters.com",
+        "source": "https://github.com/advancedhosters/yii2-asset-advancedhosters",
+        "issues": "https://github.com/advancedhosters/yii2-asset-advancedhosters/issues",
+        "wiki": "https://github.com/advancedhosters/yii2-asset-advancedhosters/wiki"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "https://hipanel.com/"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "advancedhosters\\assets\\advancedhosters\\": "src"
+        }
+    }
+}
