@@ -1,7 +1,10 @@
 advancedhosters/yii2-asset-advancedhosters commits history
 ----------------------------------------------------------
 
-## Under development
+## 0.0.2 Under development
+
+
+## 0.0.1 2015-08-24
 
 - Added assets/css/advancedhosters.css with logo
     - 4baf242 2015-08-24 php-cs-fixed (sol@hiqdev.com)
