@@ -3,6 +3,8 @@ advancedhosters/yii2-asset-advancedhosters commits history
 
 ## 0.0.2 Under development
 
+- Added favicon.ico
+    - 021ff20 2015-08-30 + favicon.ico (sol@hiqdev.com)
 
 ## 0.0.1 2015-08-24
 

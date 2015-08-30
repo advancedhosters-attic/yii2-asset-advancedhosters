@@ -3,6 +3,7 @@ advancedhosters/yii2-asset-advancedhosters changelog
 
 ## 0.0.2 Under development
 
+- Added favicon.ico
 
 ## 0.0.1 2015-08-24
 
