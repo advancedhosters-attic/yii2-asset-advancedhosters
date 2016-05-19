@@ -3,6 +3,7 @@
 
 ## 0.0.2 Under development
 
+- Changed redone to composer-config-plugin
 - Added favicon.ico
 
 ## 0.0.1 2015-08-24

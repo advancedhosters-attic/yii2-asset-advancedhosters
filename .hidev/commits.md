@@ -3,6 +3,9 @@
 
 ## 0.0.2 Under development
 
+- Changed redone to composer-config-plugin
+    - 00c744e 2016-05-19 csfixed (sol@hiqdev.com)
+    - 9f674b5 2016-05-19 redoing to composer-config-plugin (sol@hiqdev.com)
 - Added favicon.ico
     - 021ff20 2015-08-30 + favicon.ico (sol@hiqdev.com)
 
