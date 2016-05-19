@@ -1,5 +1,5 @@
-advancedhosters/yii2-asset-advancedhosters changelog
-----------------------------------------------------
+/yii2-asset-advancedhosters changelog
+-------------------------------------
 
 ## 0.0.2 Under development
 

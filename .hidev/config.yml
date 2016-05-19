@@ -1,11 +1,16 @@
 package:
-    name:           yii2-asset-advancedhosters
-    namespace:      advancedhosters\assets\advancedhosters
-    title:          Yii 2 asset with AdvancedHosters logos and so on
     type:           yii2-extension
+    name:           yii2-asset-advancedhosters
+    title:          'AdvancedHosters asset files: images, configs and more'
+    headline:       AdvancedHosters assets
     keywords:       advancedhosters, asset, extension, yii2
-    year:           2015
+    namespace:      advancedhosters\assets\advancedhosters
+    description:    |
+        [AdvancedHosters](https://advancedhosters.com) is a domain registrator.
 
-require:
-    advancedhosters/hidev-config:   "*"
-    hiqdev/hidev-config-php:        "*"
+        This package provides assets shareable between different AdvancedHosters projects:
+
+        - logos and css bundled with yii2 asset bundle
+        - config settings
+        - translations
+

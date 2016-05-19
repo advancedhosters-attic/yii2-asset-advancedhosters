@@ -1,5 +1,5 @@
-advancedhosters/yii2-asset-advancedhosters commits history
-----------------------------------------------------------
+/yii2-asset-advancedhosters commits history
+-------------------------------------------
 
 ## 0.0.2 Under development
 
