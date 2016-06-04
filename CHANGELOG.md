@@ -1,7 +1,7 @@
-/yii2-asset-advancedhosters changelog
--------------------------------------
+advancedhosters/yii2-asset-advancedhosters changelog
+----------------------------------------------------
 
-## 0.0.2 Under development
+## 0.0.2 2016-06-04
 
 - Changed redone to composer-config-plugin
 - Added favicon.ico

@@ -1,9 +1,11 @@
-/yii2-asset-advancedhosters commits history
--------------------------------------------
+advancedhosters/yii2-asset-advancedhosters commits history
+----------------------------------------------------------
 
-## 0.0.2 Under development
+## 0.0.2 2016-06-04
 
 - Changed redone to composer-config-plugin
+    - 00837df 2016-06-04 csfixed (sol@hiqdev.com)
+    - 438fa64 2016-06-04 inited empty tests (sol@hiqdev.com)
     - 00c744e 2016-05-19 csfixed (sol@hiqdev.com)
     - 9f674b5 2016-05-19 redoing to composer-config-plugin (sol@hiqdev.com)
 - Added favicon.ico
