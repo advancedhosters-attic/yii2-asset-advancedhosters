@@ -6,7 +6,7 @@ package:
     keywords:       advancedhosters, asset, extension, yii2
     namespace:      advancedhosters\assets\advancedhosters
     description:    |
-        [AdvancedHosters](https://advancedhosters.com) is a domain registrator.
+        [AdvancedHosters](https://advancedhosters.com) is a hosting company.
 
         This package provides assets shareable between different AdvancedHosters projects:
 

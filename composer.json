@@ -1,5 +1,5 @@
 {
-    "name": "/yii2-asset-advancedhosters",
+    "name": "advancedhosters/yii2-asset-advancedhosters",
     "type": "yii2-extension",
     "description": "AdvancedHosters asset files: images, configs and more",
     "keywords": [
@@ -8,18 +8,24 @@
         "extension",
         "yii2"
     ],
-    "homepage": "https://github.com//yii2-asset-advancedhosters",
-    "license": "No license",
+    "homepage": "https://github.com/advancedhosters/yii2-asset-advancedhosters",
+    "license": "proprietary",
     "support": {
+        "email": "support@advancedhosters.com",
         "source": "https://github.com/advancedhosters/yii2-asset-advancedhosters",
         "issues": "https://github.com/advancedhosters/yii2-asset-advancedhosters/issues",
-        "wiki": "https://github.com/advancedhosters/yii2-asset-advancedhosters/wiki",
-        "email": "support@advancedhosters.com"
+        "wiki": "https://github.com/advancedhosters/yii2-asset-advancedhosters/wiki"
     },
-    "authors": [],
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "https://hipanel.com/"
+        }
+    ],
     "require-dev": {
         "hiqdev/hidev-php": "<2.0",
-        "advancedhosters/hidev-vendor": "*"
+        "advancedhosters/hidev-advancedhosters": "<2.0"
     },
     "autoload": {
         "psr-4": {

@@ -1,12 +1,12 @@
 <?php
 
 /*
- * Yii 2 asset with AdvancedHosters logos and so on
+ * AdvancedHosters asset files: images, configs and more
  *
  * @link      https://github.com/advancedhosters/yii2-asset-advancedhosters
  * @package   yii2-asset-advancedhosters
- * @license   No license
- * @copyright Copyright (c) 2015, AdvancedHosters (https://advancedhosters.com/)
+ * @license   proprietary
+ * @copyright Copyright (c) 2015-2016, AdvancedHosters (https://advancedhosters.com/)
  */
 
 return [
