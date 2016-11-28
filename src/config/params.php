@@ -9,9 +9,21 @@
  * @copyright Copyright (c) 2015-2016, AdvancedHosters (https://advancedhosters.com/)
  */
 
+$supportEmail = 'support@advancedhosters.com';
+
 return [
     'organizationName'  => 'AdvancedHosters',
     'organizationUrl'   => 'https://advancedhosters.com/',
-    'supportEmail'      => 'support@advancedhosters.com',
-    'adminEmail'        => 'support@advancedhosters.com',
+    'supportEmail'      => $supportEmail,
+    'adminEmail'        => $supportEmail,
+    'abuseEmail'        => 'abuse@advancedhosters.com',
+    'salesEmail'        => 'contact.sales@advancedhosters.com',
+
+    'copyrightYear'     => 2002,
+
+    'socialLinks'       => [
+        'email'     => 'mailto:' . $supportEmail,
+        'twitter'   => 'https://twitter.com/advancedhosters',
+        'facebook'  => 'https://www.facebook.com/AdvancedHosters/',
+    ],
 ];
