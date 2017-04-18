@@ -21,6 +21,8 @@ return [
 
     'copyrightYear'     => 2002,
 
+    'favicon.ico'       => '@advancedhosters/assets/advancedhosters/assets/images/favicon.ico',
+
     'socialLinks'       => [
         'email'     => 'mailto:' . $supportEmail,
         'twitter'   => 'https://twitter.com/advancedhosters',
