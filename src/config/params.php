@@ -12,18 +12,19 @@
 $supportEmail = 'support@advancedhosters.com';
 
 return [
-    'organizationName'  => 'AdvancedHosters',
-    'organizationUrl'   => 'https://advancedhosters.com/',
+    'favicon.ico'       => '@advancedhosters/assets/advancedhosters/assets/images/favicon.ico',
+
+    'organization.name' => 'AdvancedHosters',
+    'organization.url'  => 'https://advancedhosters.com/',
+
     'supportEmail'      => $supportEmail,
     'adminEmail'        => $supportEmail,
     'abuseEmail'        => 'abuse@advancedhosters.com',
     'salesEmail'        => 'contact.sales@advancedhosters.com',
 
-    'copyrightYear'     => 2002,
+    'copyright.year'    => 2002,
 
-    'favicon.ico'       => '@advancedhosters/assets/advancedhosters/assets/images/favicon.ico',
-
-    'socialLinks'       => [
+    'socialLinks.links' => [
         'email'     => 'mailto:' . $supportEmail,
         'twitter'   => 'https://twitter.com/advancedhosters',
         'facebook'  => 'https://www.facebook.com/AdvancedHosters/',
