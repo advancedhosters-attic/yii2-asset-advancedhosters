@@ -29,4 +29,6 @@ return [
         'twitter'   => 'https://twitter.com/advancedhosters',
         'facebook'  => 'https://www.facebook.com/AdvancedHosters/',
     ],
+
+    'legals.privacyPolicyUrl' => 'https://advancedhosting.com/en/documents/privacyPolicy',
 ];
