@@ -17,10 +17,12 @@ return [
     'organization.name' => 'AdvancedHosters',
     'organization.url'  => 'https://advancedhosters.com/',
 
-    'supportEmail'      => $supportEmail,
-    'adminEmail'        => $supportEmail,
-    'abuseEmail'        => 'abuse@advancedhosters.com',
-    'salesEmail'        => 'contact.sales@advancedhosters.com',
+    'supportEmail'           => $supportEmail,
+    'adminEmail'             => $supportEmail,
+    'abuseEmail'             => 'abuse@advancedhosters.com',
+    'salesEmail'             => 'contact.sales@advancedhosters.com',
+    'ticketGlobalNotifyMail' => 'ahnames-tickets@advancedhosters.com',
+
 
     'copyright.year'    => 2002,
 
