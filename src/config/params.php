@@ -33,4 +33,6 @@ return [
     ],
 
     'legals.privacyPolicyUrl' => 'https://advancedhosting.com/en/documents/privacyPolicy',
+
+    'module.server.order.allowed' => false,
 ];
